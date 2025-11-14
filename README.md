@@ -113,4 +113,7 @@ Retrieved context + user question is passed to a local LLM (via Ollama), which g
 
 ---
 
-<img src="images/sample output.png" width="300" />
+# Sample Output
+
+<img width="1366" height="695" alt="sample output" src="https://github.com/user-attachments/assets/efa75088-7937-4829-ad71-f113bd47bcbc" />
+
