@@ -74,8 +74,6 @@ pip install -r requirements.txt
 
 ---
 
----
-
 ## 🧠 How the System Works (RAG Pipeline Overview)
 
 ### 1. **Text Loading**
