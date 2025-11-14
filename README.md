@@ -28,7 +28,7 @@ Before running this project, ensure you have the following installed:
 ### 1. Clone the repository
 
 ```bash
-git clone <your-repo-url>
+git clone https://github.com/Mauryalalit/AmbedkarGPT-Intern-Task
 cd AmbedkarGPT-Intern-Task
 ```
 
@@ -73,21 +73,6 @@ pip install -r requirements.txt
 5. Type `exit` to quit the program.
 
 ---
-
-## ⚙️ Optional CLI Flags
-
-You can customize the input file and vector database location:
-
-| Flag                      | Description                                        |
-| ------------------------- | -------------------------------------------------- |
-| `--speech-path PATH`      | Provide a different text file                      |
-| `--persist-directory DIR` | Change the directory where ChromaDB stores vectors |
-
-Example:
-
-```bash
-python main.py --speech-path data/alternate.txt
-```
 
 ---
 
