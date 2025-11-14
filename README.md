@@ -112,3 +112,5 @@ Retrieved context + user question is passed to a local LLM (via Ollama), which g
 * `README.md` – Project documentation.
 
 ---
+
+![Alt text](images/sample output.png)
