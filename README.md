@@ -113,4 +113,4 @@ Retrieved context + user question is passed to a local LLM (via Ollama), which g
 
 ---
 
-![Alt text](images/sample output.png)
+<img src="images/sample output.png" width="300" />
